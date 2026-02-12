@@ -1,4 +1,4 @@
-cmake_minimum_required(Version 3.10)
+cmake_minimum_required(VERSION 3.10)
 project(string_master)
 
 add_executable(app 
